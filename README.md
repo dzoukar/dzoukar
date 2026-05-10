@@ -32,15 +32,10 @@ I am currently working on a custom-built enterprise application designed for an 
 
 ---
 
-### 📊 GitHub Stats
-![dzoukar's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzoukar&show_icons=true&theme=vision-friendly-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzoukar&layout=compact&theme=vision-friendly-dark)
-
----
-
 ### 📫 How to reach me
 - **LinkedIn:** [Štěpán Uhlík](https://www.linkedin.com/in/%C5%A1t%C4%9Bp%C3%A1n-uhl%C3%ADk-001a7035b/)
 - **GitHub:** [dzoukar](https://github.com/dzoukar)
+- **Web:** [www](https://dzoukar.github.io/en/index.html)
 - **Location:** Banská Bystrica, Slovakia 🇸🇰
 
 ---
